@@ -1,3 +1,3 @@
 # Loading-Animation
-Output
-<img src="image/output.png">
+Output <br>
+<img height="50%" src="image/output.png">
